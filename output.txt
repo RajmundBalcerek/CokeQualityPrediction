@@ -1,0 +1,1226 @@
+Keras model archive loading:
+File Name                                             Modified             Size
+config.json                                    2023-05-21 16:41:26         2594
+metadata.json                                  2023-05-21 16:41:26           64
+variables.h5                                   2023-05-21 16:41:26       143112
+Keras weights file (<HDF5 file "variables.h5" (mode r)>) loading:
+...layers\dense
+......vars
+.........0
+.........1
+...layers\dense_1
+......vars
+.........0
+.........1
+...layers\dense_2
+......vars
+.........0
+.........1
+...layers\dropout
+......vars
+...metrics\mean
+......vars
+.........0
+.........1
+...metrics\mean_metric_wrapper
+......vars
+.........0
+.........1
+...optimizer
+......vars
+.........0
+.........1
+.........10
+.........11
+.........12
+.........2
+.........3
+.........4
+.........5
+.........6
+.........7
+.........8
+.........9
+...vars
+Keras model archive loading:
+File Name                                             Modified             Size
+config.json                                    2023-05-21 16:41:26         2594
+metadata.json                                  2023-05-21 16:41:26           64
+variables.h5                                   2023-05-21 16:41:26       143112
+Keras weights file (<HDF5 file "variables.h5" (mode r)>) loading:
+...layers\dense
+......vars
+.........0
+.........1
+...layers\dense_1
+......vars
+.........0
+.........1
+...layers\dense_2
+......vars
+.........0
+.........1
+...layers\dropout
+......vars
+...metrics\mean
+......vars
+.........0
+.........1
+...metrics\mean_metric_wrapper
+......vars
+.........0
+.........1
+...optimizer
+......vars
+.........0
+.........1
+.........10
+.........11
+.........12
+.........2
+.........3
+.........4
+.........5
+.........6
+.........7
+.........8
+.........9
+...vars
+Keras model archive loading:
+File Name                                             Modified             Size
+config.json                                    2023-05-21 16:41:26         2749
+metadata.json                                  2023-05-21 16:41:26           64
+variables.h5                                   2023-05-21 16:41:26      8741952
+Keras weights file (<HDF5 file "variables.h5" (mode r)>) loading:
+...layers\dense
+......vars
+.........0
+.........1
+...layers\dense_1
+......vars
+.........0
+.........1
+...layers\dense_2
+......vars
+.........0
+.........1
+...layers\dropout
+......vars
+...layers\dropout_1
+......vars
+...metrics\mean
+......vars
+.........0
+.........1
+...metrics\mean_metric_wrapper
+......vars
+.........0
+.........1
+...optimizer
+......vars
+.........0
+.........1
+.........2
+.........3
+.........4
+.........5
+.........6
+...vars
+Keras model archive loading:
+File Name                                             Modified             Size
+config.json                                    2023-05-21 16:41:26         2727
+metadata.json                                  2023-05-21 16:41:26           64
+variables.h5                                   2023-05-21 16:41:26       630848
+Keras weights file (<HDF5 file "variables.h5" (mode r)>) loading:
+...layers\dense
+......vars
+.........0
+.........1
+...layers\dense_1
+......vars
+.........0
+.........1
+...layers\dense_2
+......vars
+.........0
+.........1
+...layers\dropout
+......vars
+...layers\dropout_1
+......vars
+...metrics\mean
+......vars
+.........0
+.........1
+...metrics\mean_metric_wrapper
+......vars
+.........0
+.........1
+...optimizer
+......vars
+.........0
+.........1
+.........2
+.........3
+.........4
+.........5
+.........6
+...vars
+Keras model archive loading:
+File Name                                             Modified             Size
+config.json                                    2023-05-21 16:41:26         2726
+metadata.json                                  2023-05-21 16:41:26           64
+variables.h5                                   2023-05-21 16:41:26       168000
+Keras weights file (<HDF5 file "variables.h5" (mode r)>) loading:
+...layers\dense
+......vars
+.........0
+.........1
+...layers\dense_1
+......vars
+.........0
+.........1
+...layers\dense_2
+......vars
+.........0
+.........1
+...layers\dropout
+......vars
+...layers\dropout_1
+......vars
+...metrics\mean
+......vars
+.........0
+.........1
+...metrics\mean_metric_wrapper
+......vars
+.........0
+.........1
+...optimizer
+......vars
+.........0
+.........1
+.........2
+.........3
+.........4
+.........5
+.........6
+...vars
+Keras model archive loading:
+File Name                                             Modified             Size
+config.json                                    2023-05-21 16:41:26         2726
+metadata.json                                  2023-05-21 16:41:26           64
+variables.h5                                   2023-05-21 16:41:26       104128
+Keras weights file (<HDF5 file "variables.h5" (mode r)>) loading:
+...layers\dense
+......vars
+.........0
+.........1
+...layers\dense_1
+......vars
+.........0
+.........1
+...layers\dense_2
+......vars
+.........0
+.........1
+...layers\dropout
+......vars
+...layers\dropout_1
+......vars
+...metrics\mean
+......vars
+.........0
+.........1
+...metrics\mean_metric_wrapper
+......vars
+.........0
+.........1
+...optimizer
+......vars
+.........0
+.........1
+.........2
+.........3
+.........4
+.........5
+.........6
+...vars
+Keras model archive loading:
+File Name                                             Modified             Size
+config.json                                    2023-05-21 16:41:26         2725
+metadata.json                                  2023-05-21 16:41:26           64
+variables.h5                                   2023-05-21 16:41:26        66240
+Keras weights file (<HDF5 file "variables.h5" (mode r)>) loading:
+...layers\dense
+......vars
+.........0
+.........1
+...layers\dense_1
+......vars
+.........0
+.........1
+...layers\dense_2
+......vars
+.........0
+.........1
+...layers\dropout
+......vars
+...layers\dropout_1
+......vars
+...metrics\mean
+......vars
+.........0
+.........1
+...metrics\mean_metric_wrapper
+......vars
+.........0
+.........1
+...optimizer
+......vars
+.........0
+.........1
+.........2
+.........3
+.........4
+.........5
+.........6
+...vars
+Keras model archive loading:
+File Name                                             Modified             Size
+config.json                                    2023-05-21 16:41:26         2709
+metadata.json                                  2023-05-21 16:41:26           64
+variables.h5                                   2023-05-21 16:41:26       329792
+Keras weights file (<HDF5 file "variables.h5" (mode r)>) loading:
+...layers\dense
+......vars
+.........0
+.........1
+...layers\dense_1
+......vars
+.........0
+.........1
+...layers\dense_2
+......vars
+.........0
+.........1
+...layers\dropout
+......vars
+...layers\dropout_1
+......vars
+...metrics\mean
+......vars
+.........0
+.........1
+...metrics\mean_metric_wrapper
+......vars
+.........0
+.........1
+...optimizer
+......vars
+.........0
+.........1
+.........2
+.........3
+.........4
+.........5
+.........6
+...vars
+Keras model archive loading:
+File Name                                             Modified             Size
+config.json                                    2023-05-21 16:41:26         2710
+metadata.json                                  2023-05-21 16:41:26           64
+variables.h5                                   2023-05-21 16:41:26       329792
+Keras weights file (<HDF5 file "variables.h5" (mode r)>) loading:
+...layers\dense
+......vars
+.........0
+.........1
+...layers\dense_1
+......vars
+.........0
+.........1
+...layers\dense_2
+......vars
+.........0
+.........1
+...layers\dropout
+......vars
+...layers\dropout_1
+......vars
+...metrics\mean
+......vars
+.........0
+.........1
+...metrics\mean_metric_wrapper
+......vars
+.........0
+.........1
+...optimizer
+......vars
+.........0
+.........1
+.........2
+.........3
+.........4
+.........5
+.........6
+...vars
+Keras model archive loading:
+File Name                                             Modified             Size
+config.json                                    2023-05-21 16:41:26         2709
+metadata.json                                  2023-05-21 16:41:26           64
+variables.h5                                   2023-05-21 16:41:26       178752
+Keras weights file (<HDF5 file "variables.h5" (mode r)>) loading:
+...layers\dense
+......vars
+.........0
+.........1
+...layers\dense_1
+......vars
+.........0
+.........1
+...layers\dense_2
+......vars
+.........0
+.........1
+...layers\dropout
+......vars
+...layers\dropout_1
+......vars
+...metrics\mean
+......vars
+.........0
+.........1
+...metrics\mean_metric_wrapper
+......vars
+.........0
+.........1
+...optimizer
+......vars
+.........0
+.........1
+.........2
+.........3
+.........4
+.........5
+.........6
+...vars
+Keras model archive loading:
+File Name                                             Modified             Size
+config.json                                    2023-05-21 16:41:26         2709
+metadata.json                                  2023-05-21 16:41:26           64
+variables.h5                                   2023-05-21 16:41:26       178752
+Keras weights file (<HDF5 file "variables.h5" (mode r)>) loading:
+...layers\dense
+......vars
+.........0
+.........1
+...layers\dense_1
+......vars
+.........0
+.........1
+...layers\dense_2
+......vars
+.........0
+.........1
+...layers\dropout
+......vars
+...layers\dropout_1
+......vars
+...metrics\mean
+......vars
+.........0
+.........1
+...metrics\mean_metric_wrapper
+......vars
+.........0
+.........1
+...optimizer
+......vars
+.........0
+.........1
+.........2
+.........3
+.........4
+.........5
+.........6
+...vars
+Keras model archive loading:
+File Name                                             Modified             Size
+config.json                                    2023-05-21 16:41:26         2709
+metadata.json                                  2023-05-21 16:41:26           64
+variables.h5                                   2023-05-21 16:41:26       178752
+Keras weights file (<HDF5 file "variables.h5" (mode r)>) loading:
+...layers\dense
+......vars
+.........0
+.........1
+...layers\dense_1
+......vars
+.........0
+.........1
+...layers\dense_2
+......vars
+.........0
+.........1
+...layers\dropout
+......vars
+...layers\dropout_1
+......vars
+...metrics\mean
+......vars
+.........0
+.........1
+...metrics\mean_metric_wrapper
+......vars
+.........0
+.........1
+...optimizer
+......vars
+.........0
+.........1
+.........2
+.........3
+.........4
+.........5
+.........6
+...vars
+Keras model archive loading:
+File Name                                             Modified             Size
+config.json                                    2023-05-21 16:41:26         2747
+metadata.json                                  2023-05-21 16:41:26           64
+variables.h5                                   2023-05-21 16:41:26        61664
+Keras weights file (<HDF5 file "variables.h5" (mode r)>) loading:
+...layers\dense
+......vars
+.........0
+.........1
+...layers\dense_1
+......vars
+.........0
+.........1
+...layers\dense_2
+......vars
+.........0
+.........1
+...layers\dropout
+......vars
+...layers\dropout_1
+......vars
+...metrics\mean
+......vars
+.........0
+.........1
+...metrics\mean_metric_wrapper
+......vars
+.........0
+.........1
+...optimizer
+......vars
+.........0
+.........1
+.........10
+.........11
+.........12
+.........2
+.........3
+.........4
+.........5
+.........6
+.........7
+.........8
+.........9
+...vars
+Keras model archive loading:
+File Name                                             Modified             Size
+config.json                                    2023-05-21 16:41:26         2746
+metadata.json                                  2023-05-21 16:41:26           64
+variables.h5                                   2023-05-21 16:41:26        92384
+Keras weights file (<HDF5 file "variables.h5" (mode r)>) loading:
+...layers\dense
+......vars
+.........0
+.........1
+...layers\dense_1
+......vars
+.........0
+.........1
+...layers\dense_2
+......vars
+.........0
+.........1
+...layers\dropout
+......vars
+...layers\dropout_1
+......vars
+...metrics\mean
+......vars
+.........0
+.........1
+...metrics\mean_metric_wrapper
+......vars
+.........0
+.........1
+...optimizer
+......vars
+.........0
+.........1
+.........10
+.........11
+.........12
+.........2
+.........3
+.........4
+.........5
+.........6
+.........7
+.........8
+.........9
+...vars
+Keras model archive loading:
+File Name                                             Modified             Size
+config.json                                    2023-05-21 16:41:26         2727
+metadata.json                                  2023-05-21 16:41:26           64
+variables.h5                                   2023-05-21 16:41:26       174400
+Keras weights file (<HDF5 file "variables.h5" (mode r)>) loading:
+...layers\dense
+......vars
+.........0
+.........1
+...layers\dense_1
+......vars
+.........0
+.........1
+...layers\dense_2
+......vars
+.........0
+.........1
+...layers\dropout
+......vars
+...layers\dropout_1
+......vars
+...metrics\mean
+......vars
+.........0
+.........1
+...metrics\mean_metric_wrapper
+......vars
+.........0
+.........1
+...optimizer
+......vars
+.........0
+.........1
+.........2
+.........3
+.........4
+.........5
+.........6
+...vars
+Keras model archive loading:
+File Name                                             Modified             Size
+config.json                                    2023-05-21 16:41:26         2727
+metadata.json                                  2023-05-21 16:41:26           64
+variables.h5                                   2023-05-21 16:41:26       174400
+Keras weights file (<HDF5 file "variables.h5" (mode r)>) loading:
+...layers\dense
+......vars
+.........0
+.........1
+...layers\dense_1
+......vars
+.........0
+.........1
+...layers\dense_2
+......vars
+.........0
+.........1
+...layers\dropout
+......vars
+...layers\dropout_1
+......vars
+...metrics\mean
+......vars
+.........0
+.........1
+...metrics\mean_metric_wrapper
+......vars
+.........0
+.........1
+...optimizer
+......vars
+.........0
+.........1
+.........2
+.........3
+.........4
+.........5
+.........6
+...vars
+Keras model archive loading:
+File Name                                             Modified             Size
+config.json                                    2023-05-21 16:41:26         2725
+metadata.json                                  2023-05-21 16:41:26           64
+variables.h5                                   2023-05-21 16:41:26        51520
+Keras weights file (<HDF5 file "variables.h5" (mode r)>) loading:
+...layers\dense
+......vars
+.........0
+.........1
+...layers\dense_1
+......vars
+.........0
+.........1
+...layers\dense_2
+......vars
+.........0
+.........1
+...layers\dropout
+......vars
+...layers\dropout_1
+......vars
+...metrics\mean
+......vars
+.........0
+.........1
+...metrics\mean_metric_wrapper
+......vars
+.........0
+.........1
+...optimizer
+......vars
+.........0
+.........1
+.........2
+.........3
+.........4
+.........5
+.........6
+...vars
+Keras model archive loading:
+File Name                                             Modified             Size
+config.json                                    2023-05-21 16:41:26         2725
+metadata.json                                  2023-05-21 16:41:26           64
+variables.h5                                   2023-05-21 16:41:26        51520
+Keras weights file (<HDF5 file "variables.h5" (mode r)>) loading:
+...layers\dense
+......vars
+.........0
+.........1
+...layers\dense_1
+......vars
+.........0
+.........1
+...layers\dense_2
+......vars
+.........0
+.........1
+...layers\dropout
+......vars
+...layers\dropout_1
+......vars
+...metrics\mean
+......vars
+.........0
+.........1
+...metrics\mean_metric_wrapper
+......vars
+.........0
+.........1
+...optimizer
+......vars
+.........0
+.........1
+.........2
+.........3
+.........4
+.........5
+.........6
+...vars
+Keras model archive loading:
+File Name                                             Modified             Size
+config.json                                    2023-05-21 16:41:26         2725
+metadata.json                                  2023-05-21 16:41:26           64
+variables.h5                                   2023-05-21 16:41:26        51520
+Keras weights file (<HDF5 file "variables.h5" (mode r)>) loading:
+...layers\dense
+......vars
+.........0
+.........1
+...layers\dense_1
+......vars
+.........0
+.........1
+...layers\dense_2
+......vars
+.........0
+.........1
+...layers\dropout
+......vars
+...layers\dropout_1
+......vars
+...metrics\mean
+......vars
+.........0
+.........1
+...metrics\mean_metric_wrapper
+......vars
+.........0
+.........1
+...optimizer
+......vars
+.........0
+.........1
+.........2
+.........3
+.........4
+.........5
+.........6
+...vars
+Keras model archive loading:
+File Name                                             Modified             Size
+config.json                                    2023-05-21 16:41:26         2725
+metadata.json                                  2023-05-21 16:41:26           64
+variables.h5                                   2023-05-21 16:41:26        34496
+Keras weights file (<HDF5 file "variables.h5" (mode r)>) loading:
+...layers\dense
+......vars
+.........0
+.........1
+...layers\dense_1
+......vars
+.........0
+.........1
+...layers\dense_2
+......vars
+.........0
+.........1
+...layers\dropout
+......vars
+...layers\dropout_1
+......vars
+...metrics\mean
+......vars
+.........0
+.........1
+...metrics\mean_metric_wrapper
+......vars
+.........0
+.........1
+...optimizer
+......vars
+.........0
+.........1
+.........2
+.........3
+.........4
+.........5
+.........6
+...vars
+Keras model archive loading:
+File Name                                             Modified             Size
+config.json                                    2023-05-21 16:41:26         2725
+metadata.json                                  2023-05-21 16:41:26           64
+variables.h5                                   2023-05-21 16:41:26        38592
+Keras weights file (<HDF5 file "variables.h5" (mode r)>) loading:
+...layers\dense
+......vars
+.........0
+.........1
+...layers\dense_1
+......vars
+.........0
+.........1
+...layers\dense_2
+......vars
+.........0
+.........1
+...layers\dropout
+......vars
+...layers\dropout_1
+......vars
+...metrics\mean
+......vars
+.........0
+.........1
+...metrics\mean_metric_wrapper
+......vars
+.........0
+.........1
+...optimizer
+......vars
+.........0
+.........1
+.........2
+.........3
+.........4
+.........5
+.........6
+...vars
+Keras model archive loading:
+File Name                                             Modified             Size
+config.json                                    2023-05-21 16:41:26         2725
+metadata.json                                  2023-05-21 16:41:26           64
+variables.h5                                   2023-05-21 16:41:26        38592
+Keras weights file (<HDF5 file "variables.h5" (mode r)>) loading:
+...layers\dense
+......vars
+.........0
+.........1
+...layers\dense_1
+......vars
+.........0
+.........1
+...layers\dense_2
+......vars
+.........0
+.........1
+...layers\dropout
+......vars
+...layers\dropout_1
+......vars
+...metrics\mean
+......vars
+.........0
+.........1
+...metrics\mean_metric_wrapper
+......vars
+.........0
+.........1
+...optimizer
+......vars
+.........0
+.........1
+.........2
+.........3
+.........4
+.........5
+.........6
+...vars
+Keras model archive loading:
+File Name                                             Modified             Size
+config.json                                    2023-05-21 16:41:26         2728
+metadata.json                                  2023-05-21 16:41:26           64
+variables.h5                                   2023-05-21 16:41:26        38592
+Keras weights file (<HDF5 file "variables.h5" (mode r)>) loading:
+...layers\dense
+......vars
+.........0
+.........1
+...layers\dense_1
+......vars
+.........0
+.........1
+...layers\dense_2
+......vars
+.........0
+.........1
+...layers\dropout
+......vars
+...layers\dropout_1
+......vars
+...metrics\mean
+......vars
+.........0
+.........1
+...metrics\mean_metric_wrapper
+......vars
+.........0
+.........1
+...optimizer
+......vars
+.........0
+.........1
+.........2
+.........3
+.........4
+.........5
+.........6
+...vars
+Keras model archive loading:
+File Name                                             Modified             Size
+config.json                                    2023-05-21 16:41:26         2725
+metadata.json                                  2023-05-21 16:41:26           64
+variables.h5                                   2023-05-21 16:41:26       104128
+Keras weights file (<HDF5 file "variables.h5" (mode r)>) loading:
+...layers\dense
+......vars
+.........0
+.........1
+...layers\dense_1
+......vars
+.........0
+.........1
+...layers\dense_2
+......vars
+.........0
+.........1
+...layers\dropout
+......vars
+...layers\dropout_1
+......vars
+...metrics\mean
+......vars
+.........0
+.........1
+...metrics\mean_metric_wrapper
+......vars
+.........0
+.........1
+...optimizer
+......vars
+.........0
+.........1
+.........2
+.........3
+.........4
+.........5
+.........6
+...vars
+Keras model archive loading:
+File Name                                             Modified             Size
+config.json                                    2023-05-21 16:41:26         2726
+metadata.json                                  2023-05-21 16:41:26           64
+variables.h5                                   2023-05-21 16:41:26       104128
+Keras weights file (<HDF5 file "variables.h5" (mode r)>) loading:
+...layers\dense
+......vars
+.........0
+.........1
+...layers\dense_1
+......vars
+.........0
+.........1
+...layers\dense_2
+......vars
+.........0
+.........1
+...layers\dropout
+......vars
+...layers\dropout_1
+......vars
+...metrics\mean
+......vars
+.........0
+.........1
+...metrics\mean_metric_wrapper
+......vars
+.........0
+.........1
+...optimizer
+......vars
+.........0
+.........1
+.........2
+.........3
+.........4
+.........5
+.........6
+...vars
+Keras model archive loading:
+File Name                                             Modified             Size
+config.json                                    2023-05-21 16:41:26         2726
+metadata.json                                  2023-05-21 16:41:26           64
+variables.h5                                   2023-05-21 16:41:26       104128
+Keras weights file (<HDF5 file "variables.h5" (mode r)>) loading:
+...layers\dense
+......vars
+.........0
+.........1
+...layers\dense_1
+......vars
+.........0
+.........1
+...layers\dense_2
+......vars
+.........0
+.........1
+...layers\dropout
+......vars
+...layers\dropout_1
+......vars
+...metrics\mean
+......vars
+.........0
+.........1
+...metrics\mean_metric_wrapper
+......vars
+.........0
+.........1
+...optimizer
+......vars
+.........0
+.........1
+.........2
+.........3
+.........4
+.........5
+.........6
+...vars
+Keras model archive loading:
+File Name                                             Modified             Size
+config.json                                    2023-05-21 16:41:26         2726
+metadata.json                                  2023-05-21 16:41:26           64
+variables.h5                                   2023-05-21 16:41:26       468032
+Keras weights file (<HDF5 file "variables.h5" (mode r)>) loading:
+...layers\dense
+......vars
+.........0
+.........1
+...layers\dense_1
+......vars
+.........0
+.........1
+...layers\dense_2
+......vars
+.........0
+.........1
+...layers\dropout
+......vars
+...layers\dropout_1
+......vars
+...metrics\mean
+......vars
+.........0
+.........1
+...metrics\mean_metric_wrapper
+......vars
+.........0
+.........1
+...optimizer
+......vars
+.........0
+.........1
+.........2
+.........3
+.........4
+.........5
+.........6
+...vars
+Keras model archive loading:
+File Name                                             Modified             Size
+config.json                                    2023-05-21 16:41:26         2711
+metadata.json                                  2023-05-21 16:41:26           64
+variables.h5                                   2023-05-21 16:41:26      8741952
+Keras weights file (<HDF5 file "variables.h5" (mode r)>) loading:
+...layers\dense
+......vars
+.........0
+.........1
+...layers\dense_1
+......vars
+.........0
+.........1
+...layers\dense_2
+......vars
+.........0
+.........1
+...layers\dropout
+......vars
+...layers\dropout_1
+......vars
+...metrics\mean
+......vars
+.........0
+.........1
+...metrics\mean_metric_wrapper
+......vars
+.........0
+.........1
+...optimizer
+......vars
+.........0
+.........1
+.........2
+.........3
+.........4
+.........5
+.........6
+...vars
+Keras model archive loading:
+File Name                                             Modified             Size
+config.json                                    2023-05-21 16:41:26         2725
+metadata.json                                  2023-05-21 16:41:26           64
+variables.h5                                   2023-05-21 16:41:26        31424
+Keras weights file (<HDF5 file "variables.h5" (mode r)>) loading:
+...layers\dense
+......vars
+.........0
+.........1
+...layers\dense_1
+......vars
+.........0
+.........1
+...layers\dense_2
+......vars
+.........0
+.........1
+...layers\dropout
+......vars
+...layers\dropout_1
+......vars
+...metrics\mean
+......vars
+.........0
+.........1
+...metrics\mean_metric_wrapper
+......vars
+.........0
+.........1
+...optimizer
+......vars
+.........0
+.........1
+.........2
+.........3
+.........4
+.........5
+.........6
+...vars
+Keras model archive loading:
+File Name                                             Modified             Size
+config.json                                    2023-05-21 16:41:26         2730
+metadata.json                                  2023-05-21 16:41:26           64
+variables.h5                                   2023-05-21 16:41:26        36408
+Keras weights file (<HDF5 file "variables.h5" (mode r)>) loading:
+...layers\dense
+......vars
+.........0
+.........1
+...layers\dense_1
+......vars
+.........0
+.........1
+...layers\dense_2
+......vars
+.........0
+.........1
+...layers\dropout
+......vars
+...layers\dropout_1
+......vars
+...metrics\mean
+......vars
+.........0
+.........1
+...metrics\mean_metric_wrapper
+......vars
+.........0
+.........1
+...optimizer
+......vars
+.........0
+.........1
+.........10
+.........11
+.........12
+.........2
+.........3
+.........4
+.........5
+.........6
+.........7
+.........8
+.........9
+...vars
